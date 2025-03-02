@@ -13,18 +13,8 @@
   background-position: center;
   background-size: cover;
   display: flex;
-  flex-direction: column; /* Stack items vertically */
   align-items: center;
   justify-content: center;
-  text-align: center; /* Center text horizontally */
-}
-
-/* Text above the search bar */
-.text-v h1 {
-  color: white; /* White text */
-  font-size: 2.5rem; /* Adjust size as needed */
-  margin-bottom: 20px; /* Space between text and search bar */
-  background: transparent; /* Ensure no background */
 }
 
 .search-bar {
